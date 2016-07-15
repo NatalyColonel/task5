@@ -1,0 +1,241 @@
+* {
+	margin: 0;
+	padding: 0;
+	
+}
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('../fonts/helveticaneuecyr-light-webfont.woff2') format('woff2'),
+         url('../fonts/helveticaneuecyr-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+header {
+	
+	width: 1215px;
+	margin: 0 auto;
+	color: white;
+	background-image: url(../img/img.png);
+	line-height: 3vh;
+
+}
+ul {
+	padding-left: 35%;
+	padding-right: 3%;
+	margin: auto;
+	text-align: center;
+	//*margin-left: 40%;
+	margin-right: 0;
+	background: blue;*/
+
+
+}
+li {
+	display: inline;
+	height: 34px;
+	margin-left: 15px;
+	font-size: 14px;
+	font-family: "Helvetica Neue";
+	color: rgb(96, 181, 237);
+	line-height: 1;
+    text-align: left;
+}
+.vender {
+    color: white;
+	background: #4eabda;
+	padding-top: 13px;
+	padding-bottom: 14px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 0;
+	margin-bottom: 0;
+
+}
+.minhas {
+	color: white;
+}
+.ola {
+	color: white;
+	background: linear-gradient(to top, #2f7cc5, #50afdc);
+	padding-top: 13px;
+	padding-bottom: 14px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+}
+.Entrar {
+	color: white;
+	text-decoration: underline;
+}
+.flag {
+	display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+    margin-top: 10px;
+ 	}
+	
+}
+
+.line { 
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+  
+ 
+}
+footer {
+	background-image: url(../img/img1.png);
+	width: 1215px;
+	height: 1029px;
+	margin: auto;
+}
+.container {
+   	
+   	width: 560px;
+	height: 549px;
+	margin: 0 auto;
+    color: white;
+        font-size: 15px;
+    background-color: rgba(89, 89, 89, 0.631);
+	text-align: center;
+
+}
+.cadastre {
+	color: white;
+	text-align: center;
+    line-height: 65px; 
+    font-size: 20px;
+	vertical-align: middle;
+	background-color: rgba(89, 89, 89, 0.631);
+	width: 560px; 
+	height: 63px;
+	margin: auto;
+	margin-bottom: 3px;
+
+}
+.Facebook {
+	color: white;
+	margin-top: 37px;
+	width: 254px;
+	height: 34px;
+	background: linear-gradient(to top, #2f467a, #7b8cb8);
+	border-style: none;
+	margin-bottom: 20px;
+	text-align: center;
+	padding-left: 10px;
+
+}
+.bolt {
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 34px; 
+	text-align: center;
+}
+.f  {
+
+	font-size: 22px;
+	font-weight: bold;
+	border-right: 5px ;
+	float: left; /* Обтекание справа */ 
+    width: 8%;
+}
+.f:after {
+
+}
+.galka { 
+	font-size: 20px;
+	font-weight: bold;
+    float: right; /* Обтекание справа */ 
+    width: 15%;
+}
+.OU {
+	color: black;
+	overflow: hidden;
+	text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+.OU:before,
+.OU:after {
+	content: "";
+	display: inline-block;
+	vertical-align: middle;
+	width: 116px;
+	height: 1px;
+	background-color: grey;
+	position: relative;
+}
+.OU:before {
+	margin-left: -100%;
+}
+.OU:after {
+	margin-right: -100%;
+}
+}
+.Name {
+	width: 400px;
+	height: 35px;
+}
+.create {
+    width: 152px;
+    height: 37px;
+    background: linear-gradient(to top, #2e7ac4, #67c6e6);
+    color: white;
+    border-style: none;
+    margin-top: 6px;
+    margin-bottom: 6px;
+
+}
+input {
+	color: white;
+	text-indent: 10px;
+	font-size: 12px;
+	line-height: 37px;
+	background: #0f0f0f;
+	border-style: none;
+	margin-bottom: 16px;
+}
+.check{
+	margin-left: -32px;
+	margin-top: 8px;
+}
+.textbottom {
+	font-size: 10px;
+	margin-top: 18px;
+}
+
+
+.OU {
+	color: grey
+}
+#child {
+	padding-top: 220px;
+}
+input:focus {
+	color: white;
+	background: #1b5288;
+	box-shadow: 0 0 10px #699bcd;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
